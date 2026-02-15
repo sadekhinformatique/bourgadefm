@@ -1,0 +1,7 @@
+{
+  "name": "Radio Burkina Live",
+  "description": "Une application web élégante pour écouter Radio Burkina en direct, avec des informations culturelles générées par l'IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
